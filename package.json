@@ -2,7 +2,7 @@
   "name": "react-native-app-l2",
   "version": "2.0.0",
   "description": "",
-  "main": "App.js",
+  "main": "index.js",
   "scripts": {
     "start": "react-native-scripts start",
     "eject": "react-native-scripts eject",
